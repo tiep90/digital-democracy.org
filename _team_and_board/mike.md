@@ -5,6 +5,7 @@ title: Michal Migurski
 tags: board
 role: Board Treasurer
 image: /assets/mike-migurski.jpg
+rank: /assets/mike-migurski.jpg
 twitter: "https://twitter.com/michalmigurski"
 excerpt: ""
 email: ""

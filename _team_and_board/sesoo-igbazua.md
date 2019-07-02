@@ -7,6 +7,7 @@ tags:
 current: true
 permalink: /team/sesoo
 image: "/assets/sesoo-igbazua-headshot.jpg"
+rank: "/assets/sesoo-igbazua-headshot.jpg"
 ---
 
 Sesoo is an accounting and finance professional with a zeal for social change.

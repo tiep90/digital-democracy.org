@@ -5,6 +5,7 @@ title: Vince Warren
 tags: board
 role: Board President
 image: /assets/Vince_warren.jpg
+rank: /assets/Vince_warren.jpg
 twitter: "https://twitter.com/vincewarren"
 excerpt: ""
 email: ""

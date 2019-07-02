@@ -2,6 +2,7 @@
 layout: team
 email: alia.mckee@seachangestrategies.com
 image: /assets/alia_mckee.jpg
+rank: /assets/alia_mckee.jpg
 tags: board
 current: false
 title: Alia McKee
