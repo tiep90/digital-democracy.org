@@ -8,7 +8,6 @@ tags:
 current: true
 permalink: /team/aldo
 image: "/assets/aldo-sunny.jpg"
-rank: "/assets/aldo-sunny.jpg"
 ---
 Aldo focuses on creating powerful design strategies for bold, visionary people and organizations. With 13+ years of designing for digital, Aldo specializes in interface and experience design. Practicing design at the intersection of people, equity, and sustainability.
 

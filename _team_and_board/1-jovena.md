@@ -3,7 +3,6 @@ layout: team
 role: Board President
 email: "jovena@clutchtalent.com"
 image: /assets/jovena_whatmoor.png
-rank: /assets/jovena_whatmoor.png
 tags: board
 permalink: /team/jovena
 current: true

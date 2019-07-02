@@ -5,7 +5,6 @@ title: Meg Satterthwaite
 tags: board
 role: Board Secretary
 image: /assets/satterthwaite_headshot.jpg
-rank: /assets/satterthwaite_headshot.jpg
 twitter: "https://twitter.com/SatterthwaiteML"
 excerpt: ""
 email: ""

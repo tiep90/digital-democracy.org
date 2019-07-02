@@ -7,7 +7,6 @@ tags: core
 current: false
 permalink: /team/substack
 image: /assets/substack.png
-rank: /assets/substack.png
 published: true
 ---
 

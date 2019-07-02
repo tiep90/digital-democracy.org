@@ -8,7 +8,6 @@ tags:
 current: true
 permalink: /team/noffle
 image: "/assets/noffle.jpg"
-rank: "/assets/noffle.jpg"
 ---
 
 **Stephen Whitmore** works with Digital Democracy to build useful

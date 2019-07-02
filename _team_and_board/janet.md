@@ -5,7 +5,6 @@ title: Janet Harris
 tags: board
 role: Board Member
 image: /assets/Janet_Harris.jpg
-rank: /assets/Janet_Harris.jpg
 email: ""
 twitter: ""
 ---
