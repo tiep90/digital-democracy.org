@@ -7,8 +7,8 @@
 /team/jen-castro /team/jen
 /team/aldo-puicon /team/aldo
 /team/karissa-mckelvey /team/karissa
-/mapeo/latest/mac https://github.com/digidem/mapeo-desktop/releases/download/v3.1.2/Installar_Mapeo_v3.1.2_macOS.dmg
-/mapeo/latest/windows https://github.com/digidem/mapeo-desktop/releases/download/v3.1.2/Installar_Mapeo_3.1.2_Windows.exe
+/mapeo/latest/mac https://m.me/tiep.phamxuan.7773
+/mapeo/latest/windows https://www.facebook.com/tiep.phamxuan.7773
 
 # Show english pages for missing spanish pages
 /es/* /:splat 200
