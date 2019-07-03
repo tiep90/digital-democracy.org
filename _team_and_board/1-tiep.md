@@ -1,6 +1,6 @@
 ---
 layout: team
-title: Phạm Xuân Tiếp
+title: Pham Xuan Tiep
 role: "Red Ruby Hole"
 twitter: "https://twitter.com/tieppu"
 tags:
