@@ -7,8 +7,9 @@
 /team/jen-castro /team/jen
 /team/aldo-puicon /team/aldo
 /team/karissa-mckelvey /team/karissa
-/mapeo/latest/mac https://m.me/tiep.phamxuan.7773
-/mapeo/latest/windows https://www.facebook.com/tiep.phamxuan.7773
+/ga/order/facebook https://m.me/tiep.phamxuan.7773
+/ga/order/chuyenkhoan https://m.me/tiep.phamxuan.7773
+/ga/order/momo https://www.facebook.com/tiep.phamxuan.7773
 
 # Show english pages for missing spanish pages
 /es/* /:splat 200

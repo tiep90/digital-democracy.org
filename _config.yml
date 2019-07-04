@@ -34,9 +34,9 @@ collections:
   aboutus:
     output: true
     permalink: /:path/
-  mapeo:
+  ga:
     output: true
-    permalink: /mapeo/:path/
+    permalink: /ga/:path/
   jobs:
     output: true
     permalink: /jobs/:path/
