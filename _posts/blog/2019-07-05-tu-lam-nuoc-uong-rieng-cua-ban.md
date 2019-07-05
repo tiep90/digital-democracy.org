@@ -32,11 +32,15 @@ La hán quả thuộc loại cây dây leo rụng lá theo mùa, cây mọc hoan
 
 ### Pha trà la hán quả
 
-Nguyên liệu:
+#### Nguyên liệu:
 
 - Quả La Hán 1 quả. Bạn nên chọn quả lớn, tròn, khi lắc thì không thấy kêu (nếu kêu thì có khả năng ruột quả đã bị khô quá hoặc đã bị hỏng).
 Những quả bị vỡ bạn nên dùng sớm, để lâu sẽ dễ bị hỏng.
-- 1, 5 lít nước Cách thực hiện Bước 1: Rửa sạch quả la hán cho hết lông ngoài.
+- 1, 5 lít nước
+
+#### Cách thực hiện 
+
+Bước 1: Rửa sạch quả la hán cho hết lông ngoài.
 
 Bước 2: Dùng dao bổ quả la hán làm đôi hoặc làm bốn. Hoặc dùng tay bóp nát rồi cho vào bình nước.
 Bạn có thể dùng cả vỏ hoặc bỏ vỏ đi cũng được.
