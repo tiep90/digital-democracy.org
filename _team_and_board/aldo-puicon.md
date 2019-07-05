@@ -15,6 +15,6 @@ As a self-identifying Queer Latinx, Aldo commits to reinforcing and protecting p
 
 Aldo studied Graphic Design and Environmental Design at Art Center College of Design (Pasadena).
 
-Contact: [apuicon@digital-democracy.org](mailto:apuicon@digital-democracy.org)
+Contact: [apuicon@tieppu.com](mailto:apuicon@tieppu.com)
 
 Website: [aldopuicon.com](http://aldopuicon.com)

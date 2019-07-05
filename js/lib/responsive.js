@@ -30,7 +30,7 @@
         }
 
         var sizes = options.sizes || [200, 300, 400, 600, 800, 1000, 1200, 1600],
-            hostname = options.hostname || 'https://images.digital-democracy.org',
+            hostname = options.hostname || 'https://images.tieppu.com',
             retina = window.devicePixelRatio > 1 ? '@2x' : '',
             img;
 

@@ -34,4 +34,4 @@ Digital Democracy is supported by three kinds of funding: foundations, individua
 
 
 [Please give today](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9936590) to help make this launch a success & then stay tuned for more information...Thank you!
-Questions? Get in touch...info@digital-democracy.org
+Questions? Get in touch...info@tieppu.com

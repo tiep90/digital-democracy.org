@@ -16,7 +16,7 @@ Secretary Hillary Clinton said, "This is the kind of success story that we love 
 ![Emily w Hillary.png](/assets/Emily w Hillary.png)
 
 
-Secretary Clinton shared a few benchmarks from our commitment. Since making a commitment to use technology to address gender-based violence in 2010, Dd & KOFAVIV have trained more than 120 women in technology skills, fielded more than 13,000 calls through the [572 Call Center](http://www.digital-democracy.org/blog/2013/04/15/expanding-access-to-haitis-gender-based-violence-call-center/), and connected more than 800 survivors with services.
+Secretary Clinton shared a few benchmarks from our commitment. Since making a commitment to use technology to address gender-based violence in 2010, Dd & KOFAVIV have trained more than 120 women in technology skills, fielded more than 13,000 calls through the [572 Call Center](http://www.tieppu.com/blog/2013/04/15/expanding-access-to-haitis-gender-based-violence-call-center/), and connected more than 800 survivors with services.
 
 Watch the video of this morning's session [here.](http://new.livestream.com/CGI/CGI2013/videos/30820637)
 

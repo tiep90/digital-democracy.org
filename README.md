@@ -1,4 +1,4 @@
-# digital-democracy.org
+# tieppu.com
 Digital Democracy website
 
 To run locally, navigate to the local folder, enter in a terminal window: jekyll serve

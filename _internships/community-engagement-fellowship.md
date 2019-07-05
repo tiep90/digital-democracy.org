@@ -5,7 +5,7 @@ published: false
 excerpt: Digital Democracy is looking for a highly talented and passionate individual to join our team as Community Engagement Fellow in spring 2016.
 ---
 
-Digital Democracy’s mission is to empower marginalized communities to use technology to defend their rights. We build tools with our indigenous partners across South America to empower frontline action on human rights and the environment, achieving transformative change. Equipped with the tools they need, our partners become better storytellers, advocates and leaders in their  work for a more just and equitable world. At Dd, we believe that **change does not come from technology, but from how people use it**.  See See our [website](https://www.digital-democracy.org/mission/) for more.
+Digital Democracy’s mission is to empower marginalized communities to use technology to defend their rights. We build tools with our indigenous partners across South America to empower frontline action on human rights and the environment, achieving transformative change. Equipped with the tools they need, our partners become better storytellers, advocates and leaders in their  work for a more just and equitable world. At Dd, we believe that **change does not come from technology, but from how people use it**.  See See our [website](https://www.tieppu.com/mission/) for more.
 
 ## About the Fellowship
 
@@ -57,7 +57,7 @@ Our small but growing team is based in the Bay Area, California. This position w
 
 ## How to Apply
 
-Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org)
+Send a note with the following to [jobs@tieppu.com](mailto:jobs@tieppu.com)
 
 - Why are you interested in the position?
 - What’s one idea you have for how Digital Democracy can reach more people about our work?

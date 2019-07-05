@@ -5,7 +5,7 @@ published: false
 excerpt: "We’re looking for a part-time UX Designer to join our small, agile team for an initial 3-month contract starting mid-August, with a view to joining our team long-term."
 ---
 
-[Digital Democracy](https://www.digital-democracy.org/) is looking for a part-time UX Designer to join our small, agile team for an initial 3-month contract starting mid-August, with a view to joining our team long-term. You will help build cutting-edge open source tools for marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world.
+[Digital Democracy](https://www.tieppu.com/) is looking for a part-time UX Designer to join our small, agile team for an initial 3-month contract starting mid-August, with a view to joining our team long-term. You will help build cutting-edge open source tools for marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world.
 
 We’ve seen firsthand that **change does not come from technology, but from how people use it**. We are building tools our partners are using to achieve transformative change. We are dedicated to working towards a world where all people can participate in the decisions that govern their lives.
 
@@ -59,7 +59,7 @@ Our small but growing team is mainly based in the Bay Area, California, but we w
 
 ## How to apply
 
-Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org) **by August 6th**. We hope to hire by mid-August and will review applications as we receive them.
+Send a note with the following to [jobs@tieppu.com](mailto:jobs@tieppu.com) **by August 6th**. We hope to hire by mid-August and will review applications as we receive them.
 
 * Why you’re interested in designing tools at Digital Democracy.
 

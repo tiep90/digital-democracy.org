@@ -9,7 +9,7 @@ image: "/assets/eia-forest-monitoring-gps.jpg"
 
 Digital Democracy is teaming up with Washington, D.C.-based nonprofit [Environmental Investigation Agency](http://www.eia-global.org) to support Indigenous peoples’ organizations in the Peruvian Amazon to monitor and document rights violations and illegal logging. The project aims to reduce illegality and help strengthen the capacity of communities to control and benefit from forest resources.
 
-[View the Press Release](http://files.digital-democracy.org/20150114_eia_forest_governance_pr.pdf).
+[View the Press Release](http://files.tieppu.com/20150114_eia_forest_governance_pr.pdf).
 
 In 2015 we'll be working alongside indigenous partners in the field to develop software and mobile apps to gather, systematize, and visualize conflicts over resources, human rights violations, illegal logging, and the status of forest projects on their lands. We're building tools that work effectively offline, in remote regions of the Peruvian Amazon.
 

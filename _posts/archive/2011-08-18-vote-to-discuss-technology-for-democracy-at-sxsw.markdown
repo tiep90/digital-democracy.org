@@ -50,7 +50,7 @@ Speakers: Jenn Sramek –[CivicActions ](http://civicactions.com/team/jenn_srame
   2. Zawadi Nyong’o – [Africa Cancer Foundation](http://www.africacancerfoundation.org/)
 
 	
-  3. Emily Jacobi – [Digital Democracy](digital-democracy.org)
+  3. Emily Jacobi – [Digital Democracy](tieppu.com)
 
 	
   4. Catherine Harrington – [Women's Learning Partnership](http://www.learningpartnership.org/)

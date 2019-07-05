@@ -20,6 +20,6 @@ Now we need your help to complete this project. Working with the images the youn
 
 ![The photographers of Project Einstein Bangladesh](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/07/PE-Book2-300x200.jpg)
 
-Now through July 29, we're asking supporters to take advantage of a special deal, and purchase a book for yourself and a book for one of the young photographers, at a reduced rate of $55 (includes all shipping costs). Email info@digital-democracy.org to place an order.
+Now through July 29, we're asking supporters to take advantage of a special deal, and purchase a book for yourself and a book for one of the young photographers, at a reduced rate of $55 (includes all shipping costs). Email info@tieppu.com to place an order.
 
 If you can't place an order by July 29, [order your own copy of the book online](http://www.blurb.com/bookstore/detail/376198/?utm_source=badge&utm_medium=banner&utm_content=280x160) at any time.

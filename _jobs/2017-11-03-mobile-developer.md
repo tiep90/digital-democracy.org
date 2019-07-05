@@ -59,7 +59,7 @@ Our small but growing team is based in Oakland and LA, California; Edinburgh, Sc
 
 ## How to apply
 
-Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org). We will review applications as we receive them.
+Send a note with the following to [jobs@tieppu.com](mailto:jobs@tieppu.com). We will review applications as we receive them.
 
 * Why you’re interested in developing tools at Digital Democracy.
 

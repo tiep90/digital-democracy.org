@@ -11,7 +11,7 @@ image: "http://farm9.staticflickr.com/8025/7677866038_41f74ea5e3_o.jpg"
 
 Off the coattails of our recent Board Retreat and Meeting in Port-Au-Prince, Haiti, we want to take a moment to officially introduce the three members of the Digital Democracy (Dd) inaugural Board of Directors: Michael Gaouette (Chair), Janet Harris & Vince Warren.
 
-They have expertise in peace-keeping, international development and humanitarian work, human rights law, non-profit management. And, to the governance process they bring passion for what Dd can achieve as a nimble, lean organization using technology to catalyze change. [Learn more about Michael, Janet and Vince here](http://digital-democracy.org/who-we-are/board/).
+They have expertise in peace-keeping, international development and humanitarian work, human rights law, non-profit management. And, to the governance process they bring passion for what Dd can achieve as a nimble, lean organization using technology to catalyze change. [Learn more about Michael, Janet and Vince here](http://tieppu.com/who-we-are/board/).
 
 ![image](http://farm8.staticflickr.com/7119/7677493136_7c166884bf_o.jpg)
 
@@ -23,5 +23,5 @@ Please [read more about what the role entails here][3] and [nominate candidate
 
 
  [3]: http://www.scribd.com/doc/55766608/Dd-Board-of-Director-Solicitation
- [4]: https://spreadsheets.google.com/a/digital-democracy.org/spreadsheet/viewform?hl=en_US&formkey=dGJEZk5zNDRVNTczNlNVSHp0LWxldFE6MQ#gid=0
-Please [read more about what the role entails here](http://www.scribd.com/doc/55766608/Dd-Board-of-Director-Solicitation) and [nominate candidates here](https://spreadsheets.google.com/a/digital-democracy.org/spreadsheet/viewform?hl=en_US&formkey=dGJEZk5zNDRVNTczNlNVSHp0LWxldFE6MQ#gid=0).
+ [4]: https://spreadsheets.google.com/a/tieppu.com/spreadsheet/viewform?hl=en_US&formkey=dGJEZk5zNDRVNTczNlNVSHp0LWxldFE6MQ#gid=0
+Please [read more about what the role entails here](http://www.scribd.com/doc/55766608/Dd-Board-of-Director-Solicitation) and [nominate candidates here](https://spreadsheets.google.com/a/tieppu.com/spreadsheet/viewform?hl=en_US&formkey=dGJEZk5zNDRVNTczNlNVSHp0LWxldFE6MQ#gid=0).

@@ -13,4 +13,4 @@ Jen Castro is a community organizer and artist based in Vancouver, British Colum
 
 Jen has a Bachelor of Fine Arts degree from York University in Toronto, Ontario specializing in the Visual Arts Studio practice. She also completed the New Media Design and Web Development program at BCIT in Burnaby, British Columbia.
 
-Contact: [jcastro@digital-democracy.org](mailto:jcastro@digital-democracy.org)
+Contact: [jcastro@tieppu.com](mailto:jcastro@tieppu.com)

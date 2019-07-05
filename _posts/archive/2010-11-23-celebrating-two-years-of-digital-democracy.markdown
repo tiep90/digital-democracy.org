@@ -34,7 +34,7 @@ What have we been up to the past twelve months? Quite a lot.
   * Country reports on ICT & civic participation published: 4
 
 
-Check out these reports from [Armenia](http://digital-democracy.org/2010/09/02/media-and-technology-in-armenia/), [Burma/Myanmar](http://digital-democracy.org/2010/11/05/burmamyanmar-technology-research-2/), [Haiti](http://digital-democracy.org/2010/03/01/project-einstein-haiti-report-the-earthquake/) & [Zimbabwe](http://digital-democracy.org/2010/11/17/zimbabwe-during-transition-and-hyperinflation/).
+Check out these reports from [Armenia](http://tieppu.com/2010/09/02/media-and-technology-in-armenia/), [Burma/Myanmar](http://tieppu.com/2010/11/05/burmamyanmar-technology-research-2/), [Haiti](http://tieppu.com/2010/03/01/project-einstein-haiti-report-the-earthquake/) & [Zimbabwe](http://tieppu.com/2010/11/17/zimbabwe-during-transition-and-hyperinflation/).
 
 **Work with local partners in the US & globally:**
 

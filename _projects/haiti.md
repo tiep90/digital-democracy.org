@@ -26,7 +26,7 @@ KONAMAVID (National Coordination of Direct Victims)
 	
   * **MOBILES:** Launched the 572 GBV Emergency Response Call Center, Haiti’s first emergency hotline for GBV. The call center, open 24 hours a day, has fielded over 3,500 calls and connected hundreds of GBV victims to free medical, legal and psychosocial services.
 
-  * **MEDIA:** Enabled local women to document and share realities in their communities through workshops in journalism, digital photography and blogging. A subsequent [blog](http://fanmpale.blogspot.com/) and [photo exhibition](http://digital-democracy.org/haiti/photos/) brought Haitian women’s issues to national and international audiences.
+  * **MEDIA:** Enabled local women to document and share realities in their communities through workshops in journalism, digital photography and blogging. A subsequent [blog](http://fanmpale.blogspot.com/) and [photo exhibition](http://tieppu.com/haiti/photos/) brought Haitian women’s issues to national and international audiences.
 
 **Impact:**
 Empowerment through skills, responsibilities and leadership training. Women with no prior formal employment are now managing teams and systems, advocating more strategically and positioned to help a larger community of survivors.

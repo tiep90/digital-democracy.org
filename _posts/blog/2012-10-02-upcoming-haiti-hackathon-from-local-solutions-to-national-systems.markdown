@@ -35,7 +35,7 @@ HOW CAN YOU GET INVOLVED?
 
 
 
-**[1. Join us!](https://docs.google.com/a/digital-democracy.org/spreadsheet/viewform?formkey=dGhTZmE4QmU2RHJ1aHBkTzlPeFlHaHc6MQ)**
+**[1. Join us!](https://docs.google.com/a/tieppu.com/spreadsheet/viewform?formkey=dGhTZmE4QmU2RHJ1aHBkTzlPeFlHaHc6MQ)**
 
 
 

@@ -13,7 +13,7 @@ For two years Digital Democracy has built programs and worked with people around
 
 Our partners — including refugee communities, government officials in Iraq, women living in tents in Haiti, middle school students in Indiana, Burma, and Kazakhstan—inspire us. We see the change in how they perceive their potential after trainings and while using new tech. We believe in the positive change they embody and the possibilities for people, democracy, technology, and freedom.
 
-That’s why we started [#stuckonDd](http://digital-democracy.org/stuckondd/), a campaign that brings all of our partners and supporters around the world together and show your support to the world. Where does your Dd sticker live? On your computer, phone, bike, bed, or …? Show us!
+That’s why we started [#stuckonDd](http://tieppu.com/stuckondd/), a campaign that brings all of our partners and supporters around the world together and show your support to the world. Where does your Dd sticker live? On your computer, phone, bike, bed, or …? Show us!
 
 ![image](http://farm6.static.flickr.com/5085/5249383037_ec7a81e03f.jpg)
 

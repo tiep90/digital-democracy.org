@@ -2,7 +2,7 @@
 layout: team
 current: false
 role: Strategic Advisor
-email: "rmiller@digital-democracy.org"
+email: "rmiller@tieppu.com"
 twitter: "@mcplanner"
 image: /assets/ruth_headshot.jpg
 tags: core

@@ -53,7 +53,7 @@ We are an equal opportunity employer and we value diversity. We do not discrimin
 
 ## How to apply
 
-Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org)
+Send a note with the following to [jobs@tieppu.com](mailto:jobs@tieppu.com)
 
 * Why you’re interested in the role & working at Digital Democracy.
 * *Résumé* / CV, plus website or any other examples of your work.

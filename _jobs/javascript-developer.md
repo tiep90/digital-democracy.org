@@ -59,7 +59,7 @@ Our small but growing team is based in the Bay Area, California, but we welcome 
 
 ###How to apply
 
-Send a note with the following to jobs@digital-democracy.org
+Send a note with the following to jobs@tieppu.com
 
 - Why you’re interested in developing code at Digital Democracy.
 

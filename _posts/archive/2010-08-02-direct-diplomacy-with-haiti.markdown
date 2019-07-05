@@ -57,12 +57,12 @@ If you'd like to support KOFAVIV's work, you can donate to IJDH here:[http://ijd
 
 
 
-You can support Digital Democracy's work in Haiti helping women to report gender-based violence, by visiting our site: [http://digital-democracy.org/get-involved/](http://digital-democracy.org/get-involved/)
+You can support Digital Democracy's work in Haiti helping women to report gender-based violence, by visiting our site: [http://tieppu.com/get-involved/](http://tieppu.com/get-involved/)
 
 
 
 
-To purchase prints or pre-order a book of the photos taken by these women, please email us at info [at] digital-democracy.org
+To purchase prints or pre-order a book of the photos taken by these women, please email us at info [at] tieppu.com
 
 
 

@@ -41,7 +41,7 @@ Meet Opi Nenquimo, Waorani Director of Territory at [Alianza Ceibo](https://www.
   * Explore the [Waorani Resistance Map and Campaign](https://waoresist.amazonfrontlines.org/explore/) on the Amazon Frontlines Website
   * Explore the [Waorani Territory Map](https://www.alianzaceibo.org/mapas/waorani/) on the Alianza Ceibo website
   * Read [blog posts](https://www.alianzaceibo.org/blog/) on the Alianza Ceibo website - in Spanish
-  * Read more about [Dd’s mapping work with the Waorani](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/)
+  * Read more about [Dd’s mapping work with the Waorani](http://www.tieppu.com/blog/update-from-the-ecuadorian-amazon/)
 
 *Note: Opi’s interview has been translated from Spanish*
 
@@ -67,7 +67,7 @@ Meet Opi Nenquimo, Waorani Director of Territory at [Alianza Ceibo](https://www.
   * [Video interview](https://vimeo.com/166881683) with Tessa 
   * Learn about the vision of the South Rupununi District Council on [their website](http://wapichanao.communitylands.org/index.html)
   * Explore the [monitoring map and satellite imagery](http://wapichanao.communitylands.org/map.html) of Makushi & Wapichan territory
-  * Read the [Digital Democracy blog post](http://www.digital-democracy.org/blog/wapichan-publish-monitoring-data/) on work in Guyana
+  * Read the [Digital Democracy blog post](http://www.tieppu.com/blog/wapichan-publish-monitoring-data/) on work in Guyana
 
 ---
 

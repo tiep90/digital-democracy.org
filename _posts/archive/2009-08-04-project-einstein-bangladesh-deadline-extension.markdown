@@ -24,7 +24,7 @@ With your support, we can take these beautiful books to the young photographers 
 
 We have extended the deadline for purchase to August 15. We are asking supporters to take advantage of this special deal, and purchase a book for yourself and a book for one of the young photographers, at a reduced rate of $55 (includes all shipping costs).
 
-Email info@digital-democracy.org to place an order.
+Email info@tieppu.com to place an order.
 
 If you can’t place an order by August 15, [order your own copy of the book online][7] at any time. 
 
