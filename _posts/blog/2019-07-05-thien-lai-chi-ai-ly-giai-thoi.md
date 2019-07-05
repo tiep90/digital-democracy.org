@@ -10,6 +10,11 @@ image: /assets/thienlaichiai.jpg
 excerpt: "đang bay trên bầu trời kia, là những chú chim hay áng mây, tôi cất lên tiếng hát, người có nghe chăng"
 ---
 
+<div align="center">
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/Eyfm7cRO2nk" frameborder="0" allowfullscreen>
+   </iframe>
+</div>
+
 đang bay trên bầu trời kia
 
 là những chú chim hay áng mây
