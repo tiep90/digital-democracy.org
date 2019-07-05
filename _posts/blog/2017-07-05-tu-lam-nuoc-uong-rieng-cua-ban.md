@@ -1,13 +1,13 @@
 ---
 categories: blog
 published: true
-title: "Thiên Lại Chi Ái - Lý Giai Thời"
+title: "Tự làm riêng loại nước uống của bạn"
 author: Pham Xuan Tiep
 tags:
   - featured
   - front-page
-image: /assets/thienlaichiai.jpg
-excerpt: "đang bay trên bầu trời kia, là những chú chim hay áng mây, tôi cất lên tiếng hát, người có nghe chăng"
+image: /assets/waterown.jpg
+excerpt: "Bạn đã bao giờ phát chán khi phải phụ thuộc hoàn toàn vào các loại nước được làm sẵn, và phải mua tại cửa hàng hằng ngày không"
 ---
 
 <div align="center">
@@ -52,7 +52,7 @@ hy vọng không còn xa xăm
 tiếng hát bay cao ngút ngàn
 
 <div class="full-width">
-<img alt="Thiên lại chi ái" src="/assets/thienlaichiai.jpg">
+<img alt="Thiên lại chi ái" src="/assets/waterown.jpg">
 </div>
 
 > Một trong những bài hát của người dân tộc Nội mông khá hay, mạnh mẽ nhưng không kém phần yêu thương.
