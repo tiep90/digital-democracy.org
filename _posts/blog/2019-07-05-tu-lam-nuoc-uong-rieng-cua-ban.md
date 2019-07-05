@@ -18,4 +18,12 @@ Bạn đã bao giờ phát chán khi phải phụ thuộc hoàn toàn vào các 
 <img alt="Thiên lại chi ái" src="/assets/waterown.jpg">
 </div>
 
-> Một trong những bài hát của người dân tộc Nội mông khá hay, mạnh mẽ nhưng không kém phần yêu thương.
+> Một loại nước uống giữ được trong thời gian lâu, có lợi cho sức khỏe, dễ làm và có sẵn và dễ tìm kiếm.
+
+## TOP 1 nước từ quả La hán
+
+Cách nấu nước la hán quả thơm ngon, bổ dưỡng không chỉ được dùng làm nước giải khát ngày hè mà nó còn có tác dụng điều trị bệnh rất tốt. Khi nói đến quả la hán chắc hẳn ai cũng nghĩ đến đó là một loại quả được sử dụng làm thuốc, cách phổ biến và dễ làm nhất là pha nước uống. Mỗi ngày một quả la hán vừa giúp bạn có một thức uống ngon ngọt vừa có thể đem lại cho bạn những tác dụng tuyệt vời đối với sức khỏe. Nhưng bạn đã biết cách nấu nước la hán quả
+
+### Tìm hiểu về la hán quả
+
+La hán quả thuộc loại cây dây leo rụng lá theo mùa, cây mọc hoang và được trồng tại vùng Tây Nam Trung Quốc. La hán là loại cây được trồng để lấy quả. Quả la hán vừa được dùng làm nước uống giải khát thanh nhiệt cơ thể vừa là một vị thuốc Đông y. Quả la hán khô, màu nâu vàng sẫm hơi bóng có lông nhung, hình tròn hoặc tròn dài, đường kính 5-8 cm. Quả giòn dễ vỡ sau khi vỡ mặt trong có màu trắng vàng, xốp nhẹ. Hạt bên trong bẹt hình tròn trong hạt có hai lá mầm vị ngọt. Quả la hán tốt là quả tròn, lớn, cứng chắc, màu nâu vàng, lắc không kêu.
